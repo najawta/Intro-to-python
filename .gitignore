@@ -1,0 +1,8 @@
+.venv/
+.env
+h
+#git in it
+#git add .
+# git commit -m "Python basics"
+# git remote add origin https://github.com/najawta/Intro-to-python.git
+#git push -u origin master
