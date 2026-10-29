@@ -3,8 +3,13 @@
 .idea/
 *.mp3
 *.txt
+!requirements.txt
+
 #git in it
 #git add .
 # git commit -m "Python basics"
 # git remote add origin https://github.com/najawta/Intro-to-python.git
 #git push -u origin master
+
+#pip freeze > requirements.txt
+#pip install -r requirements.txt
