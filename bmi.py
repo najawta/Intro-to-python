@@ -6,8 +6,8 @@
 # 35–39.9	Obesity Class II
 # ≥40	Obesity Class III severe obesity
 
-weight = input("Please enter your weight in kilograms:")
-height = input("Please enter our height in meters:")
+weight = input("Please enter your weight in kgs:")
+height = input("Please enter our height in m:")
 
 w = float(weight)
 h = float(height)

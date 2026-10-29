@@ -1,6 +1,8 @@
 .venv/
 .env
-h
+.idea/
+*.mp3
+*.txt
 #git in it
 #git add .
 # git commit -m "Python basics"
